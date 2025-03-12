@@ -134,8 +134,9 @@ res_a["measure"]
 
 res_a$measure
 
-## check difference
 
+## check difference
+str(res_a)
 str(res_a["measure"])
 str(res_a$measure)
 
